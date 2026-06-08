@@ -1,0 +1,12 @@
+2026-06-08 13:04:48,177 - INFO - Job started
+2026-06-08 13:04:48,179 - INFO - Config loaded and validated
+2026-06-08 13:04:48,196 - ERROR - Data error: [Errno 2] No such file or directory: 'data.csv'
+2026-06-08 13:06:19,873 - INFO - Job started
+2026-06-08 13:06:19,875 - INFO - Config loaded and validated
+2026-06-08 13:06:19,936 - ERROR - Data error: Missing required column: close
+2026-06-08 13:33:56,991 - INFO - Job started
+2026-06-08 13:33:56,994 - INFO - Config loaded and validated
+2026-06-08 13:33:57,030 - INFO - Data loaded with 10000 rows
+2026-06-08 13:33:57,030 - INFO - Starting rolling mean computation
+2026-06-08 13:33:57,038 - INFO - Generating signals
+2026-06-08 13:33:57,043 - INFO - Job completed successfully
