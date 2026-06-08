@@ -62,5 +62,3 @@ docker run --rm mlops-task
 * No hardcoded paths
 * Works locally + Docker
 
-```
-
